@@ -77,12 +77,11 @@ const Header = () => {
               Contact
             </button>
             <Button
-              onClick={handleDownloadResume}
               className="bg-blue-900 hover:bg-blue-800 text-white"
               size="sm"
             >
               <Download className="w-4 h-4 mr-2" />
-              Resume
+              <a href="/sourabh-rajput.pdf">Resume</a>
             </Button>
           </nav>
 
