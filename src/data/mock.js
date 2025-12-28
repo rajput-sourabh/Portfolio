@@ -59,7 +59,7 @@ export const workExperience = [
     company: "Walstar Technologies",
     role: "Shopify Developer & CMS Developer",
     duration: "Sep 2023 - Present",
-    location: "Remote",
+    location: "On-site",
     responsibilities: [
       "Lead custom Shopify development focusing on modularity, performance, and SEO, improving client site ranking",
       "Delivered 10+ custom Shopify stores using Liquid and JSON templates tailored to client requirements",
