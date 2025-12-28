@@ -41,12 +41,11 @@ const Hero = () => {
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
               <Button
-                onClick={handleDownloadResume}
                 className="bg-blue-900 hover:bg-blue-800 text-white px-8 py-6 text-base"
                 size="lg"
               >
                 <Download className="w-5 h-5 mr-2" />
-                Download Resume
+               <a href="/sourabh-rajput.pdf"> Download Resume </a>
               </Button>
               <Button
                 onClick={scrollToProjects}
