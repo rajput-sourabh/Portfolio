@@ -1,0 +1,15 @@
+/* Smooth scrolling for better UX */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Remove default margins */
+.App {
+    margin: 0;
+    padding: 0;
+}
+
+/* Ensure consistent box-sizing */
+* {
+    box-sizing: border-box;
+}
